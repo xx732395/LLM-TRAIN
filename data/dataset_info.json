@@ -1,0 +1,31 @@
+{
+  "alpaca_zh": {
+    "file_name": "alpaca_data_zh.json",
+    "file_sha1": ""
+  },
+  "identity": {
+    "file_name": "identity.json",
+    "file_sha1": ""
+  },
+  "lima": {
+    "file_name": "lima.json",
+    "file_sha1": "",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    }
+  },
+  "oaast_rm_zh": {
+    "file_name": "oaast_rm_zh.json",
+    "file_sha1": "1065af1f3784dd61be5e79713a35f427b713a232",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output",
+      "history": "history"
+    },
+    "ranking": true
+  }
+}
